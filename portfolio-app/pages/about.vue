@@ -1,0 +1,9 @@
+<template>
+  <PageContainer>
+    <AppH2>このサイトについて</AppH2>
+    <div>
+      <p>このサイトは、わたし（後輩）のポートフォリオサイトです。</p>
+      <p>Nuxt3で構成しており、CSSフレームワークにはTailwindCSSを使っています。</p>
+    </div>
+  </PageContainer>
+</template>
